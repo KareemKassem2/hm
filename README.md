@@ -1,6 +1,6 @@
-# untitled1
+# profile 
 
-A new Flutter project.
+A profile for me.
 
 ## Getting Started
 
